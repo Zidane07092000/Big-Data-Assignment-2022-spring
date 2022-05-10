@@ -1,0 +1,46 @@
+The words are 'super'(given) ,'friend','colour'; 'friend' and 'colour' have been chosen by us.
+super:The top 5 coccurences
+For Non Spam:
+da
+replacement
+plan
+nothing
+nalla
+
+For Spam:
+get
+text
+sunshine
+subscription
+stadium
+
+friend:The top 5 coccurences
+For Non Spam:
+lt
+gt
+mine
+m
+know
+
+For Spam:
+u
+www
+ac
+62468
+yes
+
+colour:The top 5 coccurences
+For Non Spam:
+u
+really
+msg
+best
+answers
+
+For Spam:
+mobile
+call
+free
+camera
+update
+
